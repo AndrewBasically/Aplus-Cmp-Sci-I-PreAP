@@ -1,5 +1,5 @@
 # Cmp-Sci-I-PreAP
-Aplus CS Labs & Projects from my Cmp Sci I PreAP course in high school.
+A+ Computer Science Labs & Projects from my Computer Science I PreAP course in high school.
 - [Input](/Input)
   - [Input.java](/Input/Input.java)
 - [Methods & Graphics](/Methods%20%26%20Graphics)
